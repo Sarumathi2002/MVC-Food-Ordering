@@ -1,0 +1,534 @@
+C:\Users\sarum\Desktop\Programs\MVC applications\Foodordering\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\sarum\Desktop\Programs\MVC applications\Foodordering\bin\Debug\net6.0\appsettings.json
+C:\Users\sarum\Desktop\Programs\MVC applications\Foodordering\bin\Debug\net6.0\Foodordering.staticwebassets.runtime.json
+C:\Users\sarum\Desktop\Programs\MVC applications\Foodordering\bin\Debug\net6.0\Foodordering.exe
+C:\Users\sarum\Desktop\Programs\MVC applications\Foodordering\bin\Debug\net6.0\Foodordering.deps.json
+C:\Users\sarum\Desktop\Programs\MVC applications\Foodordering\bin\Debug\net6.0\Foodordering.runtimeconfig.json
+C:\Users\sarum\Desktop\Programs\MVC applications\Foodordering\bin\Debug\net6.0\Foodordering.dll
+C:\Users\sarum\Desktop\Programs\MVC applications\Foodordering\bin\Debug\net6.0\Foodordering.pdb
+C:\Users\sarum\Desktop\Programs\MVC applications\Foodordering\obj\Debug\net6.0\Foodordering.csproj.AssemblyReference.cache
+C:\Users\sarum\Desktop\Programs\MVC applications\Foodordering\obj\Debug\net6.0\Foodordering.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sarum\Desktop\Programs\MVC applications\Foodordering\obj\Debug\net6.0\Foodordering.AssemblyInfoInputs.cache
+C:\Users\sarum\Desktop\Programs\MVC applications\Foodordering\obj\Debug\net6.0\Foodordering.AssemblyInfo.cs
+C:\Users\sarum\Desktop\Programs\MVC applications\Foodordering\obj\Debug\net6.0\Foodordering.csproj.CoreCompileInputs.cache
+C:\Users\sarum\Desktop\Programs\MVC applications\Foodordering\obj\Debug\net6.0\Foodordering.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\sarum\Desktop\Programs\MVC applications\Foodordering\obj\Debug\net6.0\Foodordering.RazorAssemblyInfo.cache
+C:\Users\sarum\Desktop\Programs\MVC applications\Foodordering\obj\Debug\net6.0\Foodordering.RazorAssemblyInfo.cs
+C:\Users\sarum\Desktop\Programs\MVC applications\Foodordering\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\sarum\Desktop\Programs\MVC applications\Foodordering\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\sarum\Desktop\Programs\MVC applications\Foodordering\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\sarum\Desktop\Programs\MVC applications\Foodordering\obj\Debug\net6.0\scopedcss\bundle\Foodordering.styles.css
+C:\Users\sarum\Desktop\Programs\MVC applications\Foodordering\obj\Debug\net6.0\scopedcss\projectbundle\Foodordering.bundle.scp.css
+C:\Users\sarum\Desktop\Programs\MVC applications\Foodordering\obj\Debug\net6.0\Foodordering.dll
+C:\Users\sarum\Desktop\Programs\MVC applications\Foodordering\obj\Debug\net6.0\refint\Foodordering.dll
+C:\Users\sarum\Desktop\Programs\MVC applications\Foodordering\obj\Debug\net6.0\Foodordering.pdb
+C:\Users\sarum\Desktop\Programs\MVC applications\Foodordering\obj\Debug\net6.0\Foodordering.genruntimeconfig.cache
+C:\Users\sarum\Desktop\Programs\MVC applications\Foodordering\obj\Debug\net6.0\ref\Foodordering.dll
+C:\Users\sarum\Desktop\Programs\MVC applications\Foodordering\bin\Debug\net6.0\Humanizer.dll
+C:\Users\sarum\Desktop\Programs\MVC applications\Foodordering\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\sarum\Desktop\Programs\MVC applications\Foodordering\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\sarum\Desktop\Programs\MVC applications\Foodordering\bin\Debug\net6.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\sarum\Desktop\Programs\MVC applications\Foodordering\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\sarum\Desktop\Programs\MVC applications\Foodordering\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\sarum\Desktop\Programs\MVC applications\Foodordering\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\sarum\Desktop\Programs\MVC applications\Foodordering\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\sarum\Desktop\Programs\MVC applications\Foodordering\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\sarum\Desktop\Programs\MVC applications\Foodordering\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\sarum\Desktop\Programs\MVC applications\Foodordering\bin\Debug\net6.0\dotnet-ef.dll
+C:\Users\sarum\Desktop\Programs\MVC applications\Foodordering\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\sarum\Desktop\Programs\MVC applications\Foodordering\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\sarum\Desktop\Programs\MVC applications\Foodordering\bin\Debug\net6.0\Microsoft.Extensions.Identity.Core.dll
+C:\Users\sarum\Desktop\Programs\MVC applications\Foodordering\bin\Debug\net6.0\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\sarum\Desktop\Programs\MVC applications\Foodordering\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\sarum\Desktop\Programs\MVC applications\Foodordering\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\sarum\Desktop\Programs\MVC applications\Foodordering\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\sarum\Desktop\Programs\MVC applications\Foodordering\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\sarum\Desktop\Programs\MVC applications\Foodordering\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\sarum\Desktop\Programs\MVC applications\Foodordering\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\sarum\Desktop\Programs\MVC applications\Foodordering\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\sarum\Desktop\Programs\MVC applications\Foodordering\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\sarum\Desktop\Programs\MVC applications\Foodordering\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\sarum\Desktop\Programs\MVC applications\Foodordering\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\sarum\Desktop\Programs\MVC applications\Foodordering\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\sarum\Desktop\Programs\MVC applications\Foodordering\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\sarum\Desktop\Programs\MVC applications\Foodordering\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\sarum\Desktop\Programs\MVC applications\Foodordering\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\sarum\Desktop\Programs\MVC applications\Foodordering\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\sarum\Desktop\Programs\MVC applications\Foodordering\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\sarum\Desktop\Programs\MVC applications\Foodordering\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\sarum\Desktop\Programs\MVC applications\Foodordering\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\sarum\Desktop\Programs\MVC applications\Foodordering\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\sarum\Desktop\Programs\MVC applications\Foodordering\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\sarum\Desktop\Programs\MVC applications\Foodordering\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\sarum\Desktop\Programs\MVC applications\Foodordering\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\sarum\Desktop\Programs\MVC applications\Foodordering\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\sarum\Desktop\Programs\MVC applications\Foodordering\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\sarum\Desktop\Programs\MVC applications\Foodordering\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\sarum\Desktop\Programs\MVC applications\Foodordering\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\sarum\Desktop\Programs\MVC applications\Foodordering\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\sarum\Desktop\Programs\MVC applications\Foodordering\obj\Debug\net6.0\Foodordering.csproj.CopyComplete
+C:\Users\sarum\Desktop\Programs\WebApiPrograms\Foodordering\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\sarum\Desktop\Programs\WebApiPrograms\Foodordering\bin\Debug\net6.0\appsettings.json
+C:\Users\sarum\Desktop\Programs\WebApiPrograms\Foodordering\bin\Debug\net6.0\Foodordering.staticwebassets.runtime.json
+C:\Users\sarum\Desktop\Programs\WebApiPrograms\Foodordering\bin\Debug\net6.0\Foodordering.exe
+C:\Users\sarum\Desktop\Programs\WebApiPrograms\Foodordering\bin\Debug\net6.0\Foodordering.deps.json
+C:\Users\sarum\Desktop\Programs\WebApiPrograms\Foodordering\bin\Debug\net6.0\Foodordering.runtimeconfig.json
+C:\Users\sarum\Desktop\Programs\WebApiPrograms\Foodordering\bin\Debug\net6.0\Foodordering.dll
+C:\Users\sarum\Desktop\Programs\WebApiPrograms\Foodordering\bin\Debug\net6.0\Foodordering.pdb
+C:\Users\sarum\Desktop\Programs\WebApiPrograms\Foodordering\bin\Debug\net6.0\Humanizer.dll
+C:\Users\sarum\Desktop\Programs\WebApiPrograms\Foodordering\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\sarum\Desktop\Programs\WebApiPrograms\Foodordering\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\sarum\Desktop\Programs\WebApiPrograms\Foodordering\bin\Debug\net6.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\sarum\Desktop\Programs\WebApiPrograms\Foodordering\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\sarum\Desktop\Programs\WebApiPrograms\Foodordering\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\sarum\Desktop\Programs\WebApiPrograms\Foodordering\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\sarum\Desktop\Programs\WebApiPrograms\Foodordering\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\sarum\Desktop\Programs\WebApiPrograms\Foodordering\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\sarum\Desktop\Programs\WebApiPrograms\Foodordering\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\sarum\Desktop\Programs\WebApiPrograms\Foodordering\bin\Debug\net6.0\dotnet-ef.dll
+C:\Users\sarum\Desktop\Programs\WebApiPrograms\Foodordering\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\sarum\Desktop\Programs\WebApiPrograms\Foodordering\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\sarum\Desktop\Programs\WebApiPrograms\Foodordering\bin\Debug\net6.0\Microsoft.Extensions.Identity.Core.dll
+C:\Users\sarum\Desktop\Programs\WebApiPrograms\Foodordering\bin\Debug\net6.0\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\sarum\Desktop\Programs\WebApiPrograms\Foodordering\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\sarum\Desktop\Programs\WebApiPrograms\Foodordering\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\sarum\Desktop\Programs\WebApiPrograms\Foodordering\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\sarum\Desktop\Programs\WebApiPrograms\Foodordering\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\sarum\Desktop\Programs\WebApiPrograms\Foodordering\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\sarum\Desktop\Programs\WebApiPrograms\Foodordering\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\sarum\Desktop\Programs\WebApiPrograms\Foodordering\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\sarum\Desktop\Programs\WebApiPrograms\Foodordering\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\sarum\Desktop\Programs\WebApiPrograms\Foodordering\bin\Debug\net6.0\RazorPay Core.dll
+C:\Users\sarum\Desktop\Programs\WebApiPrograms\Foodordering\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\sarum\Desktop\Programs\WebApiPrograms\Foodordering\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\sarum\Desktop\Programs\WebApiPrograms\Foodordering\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\sarum\Desktop\Programs\WebApiPrograms\Foodordering\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\sarum\Desktop\Programs\WebApiPrograms\Foodordering\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\sarum\Desktop\Programs\WebApiPrograms\Foodordering\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\sarum\Desktop\Programs\WebApiPrograms\Foodordering\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\sarum\Desktop\Programs\WebApiPrograms\Foodordering\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\sarum\Desktop\Programs\WebApiPrograms\Foodordering\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\sarum\Desktop\Programs\WebApiPrograms\Foodordering\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\sarum\Desktop\Programs\WebApiPrograms\Foodordering\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\sarum\Desktop\Programs\WebApiPrograms\Foodordering\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\sarum\Desktop\Programs\WebApiPrograms\Foodordering\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\sarum\Desktop\Programs\WebApiPrograms\Foodordering\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\sarum\Desktop\Programs\WebApiPrograms\Foodordering\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\sarum\Desktop\Programs\WebApiPrograms\Foodordering\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\sarum\Desktop\Programs\WebApiPrograms\Foodordering\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\sarum\Desktop\Programs\WebApiPrograms\Foodordering\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\sarum\Desktop\Programs\WebApiPrograms\Foodordering\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\sarum\Desktop\Programs\WebApiPrograms\Foodordering\obj\Debug\net6.0\Foodordering.csproj.AssemblyReference.cache
+C:\Users\sarum\Desktop\Programs\WebApiPrograms\Foodordering\obj\Debug\net6.0\Foodordering.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sarum\Desktop\Programs\WebApiPrograms\Foodordering\obj\Debug\net6.0\Foodordering.AssemblyInfoInputs.cache
+C:\Users\sarum\Desktop\Programs\WebApiPrograms\Foodordering\obj\Debug\net6.0\Foodordering.AssemblyInfo.cs
+C:\Users\sarum\Desktop\Programs\WebApiPrograms\Foodordering\obj\Debug\net6.0\Foodordering.csproj.CoreCompileInputs.cache
+C:\Users\sarum\Desktop\Programs\WebApiPrograms\Foodordering\obj\Debug\net6.0\Foodordering.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\sarum\Desktop\Programs\WebApiPrograms\Foodordering\obj\Debug\net6.0\Foodordering.RazorAssemblyInfo.cache
+C:\Users\sarum\Desktop\Programs\WebApiPrograms\Foodordering\obj\Debug\net6.0\Foodordering.RazorAssemblyInfo.cs
+C:\Users\sarum\Desktop\Programs\WebApiPrograms\Foodordering\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\sarum\Desktop\Programs\WebApiPrograms\Foodordering\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\sarum\Desktop\Programs\WebApiPrograms\Foodordering\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\sarum\Desktop\Programs\WebApiPrograms\Foodordering\obj\Debug\net6.0\scopedcss\bundle\Foodordering.styles.css
+C:\Users\sarum\Desktop\Programs\WebApiPrograms\Foodordering\obj\Debug\net6.0\scopedcss\projectbundle\Foodordering.bundle.scp.css
+C:\Users\sarum\Desktop\Programs\WebApiPrograms\Foodordering\obj\Debug\net6.0\Foodordering.csproj.CopyComplete
+C:\Users\sarum\Desktop\Programs\WebApiPrograms\Foodordering\obj\Debug\net6.0\Foodordering.dll
+C:\Users\sarum\Desktop\Programs\WebApiPrograms\Foodordering\obj\Debug\net6.0\refint\Foodordering.dll
+C:\Users\sarum\Desktop\Programs\WebApiPrograms\Foodordering\obj\Debug\net6.0\Foodordering.pdb
+C:\Users\sarum\Desktop\Programs\WebApiPrograms\Foodordering\obj\Debug\net6.0\Foodordering.genruntimeconfig.cache
+C:\Users\sarum\Desktop\Programs\WebApiPrograms\Foodordering\obj\Debug\net6.0\ref\Foodordering.dll
+C:\Users\sarum\Desktop\Programs\Foodordering\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\sarum\Desktop\Programs\Foodordering\bin\Debug\net6.0\appsettings.json
+C:\Users\sarum\Desktop\Programs\Foodordering\bin\Debug\net6.0\Foodordering.staticwebassets.runtime.json
+C:\Users\sarum\Desktop\Programs\Foodordering\bin\Debug\net6.0\Foodordering.exe
+C:\Users\sarum\Desktop\Programs\Foodordering\bin\Debug\net6.0\Foodordering.deps.json
+C:\Users\sarum\Desktop\Programs\Foodordering\bin\Debug\net6.0\Foodordering.runtimeconfig.json
+C:\Users\sarum\Desktop\Programs\Foodordering\bin\Debug\net6.0\Foodordering.dll
+C:\Users\sarum\Desktop\Programs\Foodordering\bin\Debug\net6.0\Foodordering.pdb
+C:\Users\sarum\Desktop\Programs\Foodordering\bin\Debug\net6.0\Humanizer.dll
+C:\Users\sarum\Desktop\Programs\Foodordering\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\sarum\Desktop\Programs\Foodordering\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\sarum\Desktop\Programs\Foodordering\bin\Debug\net6.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\sarum\Desktop\Programs\Foodordering\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\sarum\Desktop\Programs\Foodordering\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\sarum\Desktop\Programs\Foodordering\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\sarum\Desktop\Programs\Foodordering\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\sarum\Desktop\Programs\Foodordering\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\sarum\Desktop\Programs\Foodordering\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\sarum\Desktop\Programs\Foodordering\bin\Debug\net6.0\dotnet-ef.dll
+C:\Users\sarum\Desktop\Programs\Foodordering\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\sarum\Desktop\Programs\Foodordering\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\sarum\Desktop\Programs\Foodordering\bin\Debug\net6.0\Microsoft.Extensions.Identity.Core.dll
+C:\Users\sarum\Desktop\Programs\Foodordering\bin\Debug\net6.0\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\sarum\Desktop\Programs\Foodordering\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\sarum\Desktop\Programs\Foodordering\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\sarum\Desktop\Programs\Foodordering\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\sarum\Desktop\Programs\Foodordering\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\sarum\Desktop\Programs\Foodordering\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\sarum\Desktop\Programs\Foodordering\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\sarum\Desktop\Programs\Foodordering\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\sarum\Desktop\Programs\Foodordering\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\sarum\Desktop\Programs\Foodordering\bin\Debug\net6.0\RazorPay Core.dll
+C:\Users\sarum\Desktop\Programs\Foodordering\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\sarum\Desktop\Programs\Foodordering\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\sarum\Desktop\Programs\Foodordering\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\sarum\Desktop\Programs\Foodordering\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\sarum\Desktop\Programs\Foodordering\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\sarum\Desktop\Programs\Foodordering\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\sarum\Desktop\Programs\Foodordering\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\sarum\Desktop\Programs\Foodordering\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\sarum\Desktop\Programs\Foodordering\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\sarum\Desktop\Programs\Foodordering\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\sarum\Desktop\Programs\Foodordering\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\sarum\Desktop\Programs\Foodordering\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\sarum\Desktop\Programs\Foodordering\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\sarum\Desktop\Programs\Foodordering\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\sarum\Desktop\Programs\Foodordering\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\sarum\Desktop\Programs\Foodordering\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\sarum\Desktop\Programs\Foodordering\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\sarum\Desktop\Programs\Foodordering\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\sarum\Desktop\Programs\Foodordering\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\sarum\Desktop\Programs\Foodordering\obj\Debug\net6.0\Foodordering.csproj.AssemblyReference.cache
+C:\Users\sarum\Desktop\Programs\Foodordering\obj\Debug\net6.0\Foodordering.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sarum\Desktop\Programs\Foodordering\obj\Debug\net6.0\Foodordering.AssemblyInfoInputs.cache
+C:\Users\sarum\Desktop\Programs\Foodordering\obj\Debug\net6.0\Foodordering.AssemblyInfo.cs
+C:\Users\sarum\Desktop\Programs\Foodordering\obj\Debug\net6.0\Foodordering.csproj.CoreCompileInputs.cache
+C:\Users\sarum\Desktop\Programs\Foodordering\obj\Debug\net6.0\Foodordering.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\sarum\Desktop\Programs\Foodordering\obj\Debug\net6.0\Foodordering.RazorAssemblyInfo.cache
+C:\Users\sarum\Desktop\Programs\Foodordering\obj\Debug\net6.0\Foodordering.RazorAssemblyInfo.cs
+C:\Users\sarum\Desktop\Programs\Foodordering\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\sarum\Desktop\Programs\Foodordering\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\sarum\Desktop\Programs\Foodordering\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\sarum\Desktop\Programs\Foodordering\obj\Debug\net6.0\scopedcss\bundle\Foodordering.styles.css
+C:\Users\sarum\Desktop\Programs\Foodordering\obj\Debug\net6.0\scopedcss\projectbundle\Foodordering.bundle.scp.css
+C:\Users\sarum\Desktop\Programs\Foodordering\obj\Debug\net6.0\Foodordering.csproj.CopyComplete
+C:\Users\sarum\Desktop\Programs\Foodordering\obj\Debug\net6.0\Foodordering.dll
+C:\Users\sarum\Desktop\Programs\Foodordering\obj\Debug\net6.0\refint\Foodordering.dll
+C:\Users\sarum\Desktop\Programs\Foodordering\obj\Debug\net6.0\Foodordering.pdb
+C:\Users\sarum\Desktop\Programs\Foodordering\obj\Debug\net6.0\Foodordering.genruntimeconfig.cache
+C:\Users\sarum\Desktop\Programs\Foodordering\obj\Debug\net6.0\ref\Foodordering.dll
+C:\Users\sarum\Desktop\Programs\Foodordering\bin\Debug\net6.0\System.Web.Mvc.dll
+C:\Users\sarum\Desktop\Programs\Foodordering\bin\Debug\net6.0\System.Web.Razor.dll
+C:\Users\sarum\Desktop\Programs\Foodordering\bin\Debug\net6.0\System.Web.Helpers.dll
+C:\Users\sarum\Desktop\Programs\Foodordering\bin\Debug\net6.0\System.Web.WebPages.Deployment.dll
+C:\Users\sarum\Desktop\Programs\Foodordering\bin\Debug\net6.0\System.Web.WebPages.Razor.dll
+C:\Users\sarum\Desktop\Programs\Foodordering\bin\Debug\net6.0\System.Web.WebPages.dll
+C:\Users\sarum\Desktop\Programs\Foodordering\bin\Debug\net6.0\Microsoft.Web.Infrastructure.dll
+C:\Users\sarum\Desktop\Programs\Foodordering\bin\Debug\net6.0\System.Web.Mvc.Extensions.dll
+C:\Users\sarum\Desktop\Desktop 1\Programs\Foodordering\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\sarum\Desktop\Desktop 1\Programs\Foodordering\bin\Debug\net6.0\appsettings.json
+C:\Users\sarum\Desktop\Desktop 1\Programs\Foodordering\bin\Debug\net6.0\Foodordering.staticwebassets.runtime.json
+C:\Users\sarum\Desktop\Desktop 1\Programs\Foodordering\bin\Debug\net6.0\Foodordering.exe
+C:\Users\sarum\Desktop\Desktop 1\Programs\Foodordering\bin\Debug\net6.0\Foodordering.deps.json
+C:\Users\sarum\Desktop\Desktop 1\Programs\Foodordering\bin\Debug\net6.0\Foodordering.runtimeconfig.json
+C:\Users\sarum\Desktop\Desktop 1\Programs\Foodordering\bin\Debug\net6.0\Foodordering.dll
+C:\Users\sarum\Desktop\Desktop 1\Programs\Foodordering\bin\Debug\net6.0\Foodordering.pdb
+C:\Users\sarum\Desktop\Desktop 1\Programs\Foodordering\bin\Debug\net6.0\Humanizer.dll
+C:\Users\sarum\Desktop\Desktop 1\Programs\Foodordering\bin\Debug\net6.0\System.Web.Mvc.dll
+C:\Users\sarum\Desktop\Desktop 1\Programs\Foodordering\bin\Debug\net6.0\System.Web.Razor.dll
+C:\Users\sarum\Desktop\Desktop 1\Programs\Foodordering\bin\Debug\net6.0\System.Web.Helpers.dll
+C:\Users\sarum\Desktop\Desktop 1\Programs\Foodordering\bin\Debug\net6.0\System.Web.WebPages.Deployment.dll
+C:\Users\sarum\Desktop\Desktop 1\Programs\Foodordering\bin\Debug\net6.0\System.Web.WebPages.Razor.dll
+C:\Users\sarum\Desktop\Desktop 1\Programs\Foodordering\bin\Debug\net6.0\System.Web.WebPages.dll
+C:\Users\sarum\Desktop\Desktop 1\Programs\Foodordering\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\sarum\Desktop\Desktop 1\Programs\Foodordering\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\sarum\Desktop\Desktop 1\Programs\Foodordering\bin\Debug\net6.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\sarum\Desktop\Desktop 1\Programs\Foodordering\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\sarum\Desktop\Desktop 1\Programs\Foodordering\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\sarum\Desktop\Desktop 1\Programs\Foodordering\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\sarum\Desktop\Desktop 1\Programs\Foodordering\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\sarum\Desktop\Desktop 1\Programs\Foodordering\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\sarum\Desktop\Desktop 1\Programs\Foodordering\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\sarum\Desktop\Desktop 1\Programs\Foodordering\bin\Debug\net6.0\dotnet-ef.dll
+C:\Users\sarum\Desktop\Desktop 1\Programs\Foodordering\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\sarum\Desktop\Desktop 1\Programs\Foodordering\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\sarum\Desktop\Desktop 1\Programs\Foodordering\bin\Debug\net6.0\Microsoft.Extensions.Identity.Core.dll
+C:\Users\sarum\Desktop\Desktop 1\Programs\Foodordering\bin\Debug\net6.0\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\sarum\Desktop\Desktop 1\Programs\Foodordering\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\sarum\Desktop\Desktop 1\Programs\Foodordering\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\sarum\Desktop\Desktop 1\Programs\Foodordering\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\sarum\Desktop\Desktop 1\Programs\Foodordering\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\sarum\Desktop\Desktop 1\Programs\Foodordering\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\sarum\Desktop\Desktop 1\Programs\Foodordering\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\sarum\Desktop\Desktop 1\Programs\Foodordering\bin\Debug\net6.0\Microsoft.Web.Infrastructure.dll
+C:\Users\sarum\Desktop\Desktop 1\Programs\Foodordering\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\sarum\Desktop\Desktop 1\Programs\Foodordering\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\sarum\Desktop\Desktop 1\Programs\Foodordering\bin\Debug\net6.0\RazorPay Core.dll
+C:\Users\sarum\Desktop\Desktop 1\Programs\Foodordering\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\sarum\Desktop\Desktop 1\Programs\Foodordering\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\sarum\Desktop\Desktop 1\Programs\Foodordering\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\sarum\Desktop\Desktop 1\Programs\Foodordering\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\sarum\Desktop\Desktop 1\Programs\Foodordering\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\sarum\Desktop\Desktop 1\Programs\Foodordering\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\sarum\Desktop\Desktop 1\Programs\Foodordering\bin\Debug\net6.0\System.Web.Mvc.Extensions.dll
+C:\Users\sarum\Desktop\Desktop 1\Programs\Foodordering\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\sarum\Desktop\Desktop 1\Programs\Foodordering\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\sarum\Desktop\Desktop 1\Programs\Foodordering\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\sarum\Desktop\Desktop 1\Programs\Foodordering\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\sarum\Desktop\Desktop 1\Programs\Foodordering\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\sarum\Desktop\Desktop 1\Programs\Foodordering\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\sarum\Desktop\Desktop 1\Programs\Foodordering\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\sarum\Desktop\Desktop 1\Programs\Foodordering\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\sarum\Desktop\Desktop 1\Programs\Foodordering\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\sarum\Desktop\Desktop 1\Programs\Foodordering\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\sarum\Desktop\Desktop 1\Programs\Foodordering\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\sarum\Desktop\Desktop 1\Programs\Foodordering\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\sarum\Desktop\Desktop 1\Programs\Foodordering\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\sarum\Desktop\Desktop 1\Programs\Foodordering\obj\Debug\net6.0\Foodordering.csproj.AssemblyReference.cache
+C:\Users\sarum\Desktop\Desktop 1\Programs\Foodordering\obj\Debug\net6.0\Foodordering.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sarum\Desktop\Desktop 1\Programs\Foodordering\obj\Debug\net6.0\Foodordering.AssemblyInfoInputs.cache
+C:\Users\sarum\Desktop\Desktop 1\Programs\Foodordering\obj\Debug\net6.0\Foodordering.AssemblyInfo.cs
+C:\Users\sarum\Desktop\Desktop 1\Programs\Foodordering\obj\Debug\net6.0\Foodordering.csproj.CoreCompileInputs.cache
+C:\Users\sarum\Desktop\Desktop 1\Programs\Foodordering\obj\Debug\net6.0\Foodordering.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\sarum\Desktop\Desktop 1\Programs\Foodordering\obj\Debug\net6.0\Foodordering.RazorAssemblyInfo.cache
+C:\Users\sarum\Desktop\Desktop 1\Programs\Foodordering\obj\Debug\net6.0\Foodordering.RazorAssemblyInfo.cs
+C:\Users\sarum\Desktop\Desktop 1\Programs\Foodordering\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\sarum\Desktop\Desktop 1\Programs\Foodordering\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\sarum\Desktop\Desktop 1\Programs\Foodordering\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\sarum\Desktop\Desktop 1\Programs\Foodordering\obj\Debug\net6.0\scopedcss\bundle\Foodordering.styles.css
+C:\Users\sarum\Desktop\Desktop 1\Programs\Foodordering\obj\Debug\net6.0\scopedcss\projectbundle\Foodordering.bundle.scp.css
+C:\Users\sarum\Desktop\Desktop 1\Programs\Foodordering\obj\Debug\net6.0\Foodordering.csproj.CopyComplete
+C:\Users\sarum\Desktop\Desktop 1\Programs\Foodordering\obj\Debug\net6.0\Foodordering.dll
+C:\Users\sarum\Desktop\Desktop 1\Programs\Foodordering\obj\Debug\net6.0\refint\Foodordering.dll
+C:\Users\sarum\Desktop\Desktop 1\Programs\Foodordering\obj\Debug\net6.0\Foodordering.pdb
+C:\Users\sarum\Desktop\Desktop 1\Programs\Foodordering\obj\Debug\net6.0\Foodordering.genruntimeconfig.cache
+C:\Users\sarum\Desktop\Desktop 1\Programs\Foodordering\obj\Debug\net6.0\ref\Foodordering.dll
+D:\Foodordering\bin\Debug\net6.0\appsettings.Development.json
+D:\Foodordering\bin\Debug\net6.0\appsettings.json
+D:\Foodordering\bin\Debug\net6.0\Foodordering.staticwebassets.runtime.json
+D:\Foodordering\bin\Debug\net6.0\Foodordering.exe
+D:\Foodordering\bin\Debug\net6.0\Foodordering.deps.json
+D:\Foodordering\bin\Debug\net6.0\Foodordering.runtimeconfig.json
+D:\Foodordering\bin\Debug\net6.0\Foodordering.dll
+D:\Foodordering\bin\Debug\net6.0\Foodordering.pdb
+D:\Foodordering\bin\Debug\net6.0\Humanizer.dll
+D:\Foodordering\bin\Debug\net6.0\System.Web.Mvc.dll
+D:\Foodordering\bin\Debug\net6.0\System.Web.Razor.dll
+D:\Foodordering\bin\Debug\net6.0\System.Web.Helpers.dll
+D:\Foodordering\bin\Debug\net6.0\System.Web.WebPages.Deployment.dll
+D:\Foodordering\bin\Debug\net6.0\System.Web.WebPages.Razor.dll
+D:\Foodordering\bin\Debug\net6.0\System.Web.WebPages.dll
+D:\Foodordering\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+D:\Foodordering\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+D:\Foodordering\bin\Debug\net6.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+D:\Foodordering\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+D:\Foodordering\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\Foodordering\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Foodordering\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Foodordering\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Foodordering\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Foodordering\bin\Debug\net6.0\dotnet-ef.dll
+D:\Foodordering\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+D:\Foodordering\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+D:\Foodordering\bin\Debug\net6.0\Microsoft.Extensions.Identity.Core.dll
+D:\Foodordering\bin\Debug\net6.0\Microsoft.Extensions.Identity.Stores.dll
+D:\Foodordering\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+D:\Foodordering\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Foodordering\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\Foodordering\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\Foodordering\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Foodordering\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\Foodordering\bin\Debug\net6.0\Microsoft.Web.Infrastructure.dll
+D:\Foodordering\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\Foodordering\bin\Debug\net6.0\Newtonsoft.Json.dll
+D:\Foodordering\bin\Debug\net6.0\RazorPay Core.dll
+D:\Foodordering\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\Foodordering\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\Foodordering\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Foodordering\bin\Debug\net6.0\System.Runtime.Caching.dll
+D:\Foodordering\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\Foodordering\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\Foodordering\bin\Debug\net6.0\System.Web.Mvc.Extensions.dll
+D:\Foodordering\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\Foodordering\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Foodordering\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Foodordering\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Foodordering\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Foodordering\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Foodordering\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Foodordering\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\Foodordering\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\Foodordering\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\Foodordering\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\Foodordering\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Foodordering\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\Foodordering\obj\Debug\net6.0\Foodordering.csproj.AssemblyReference.cache
+D:\Foodordering\obj\Debug\net6.0\Foodordering.GeneratedMSBuildEditorConfig.editorconfig
+D:\Foodordering\obj\Debug\net6.0\Foodordering.AssemblyInfoInputs.cache
+D:\Foodordering\obj\Debug\net6.0\Foodordering.AssemblyInfo.cs
+D:\Foodordering\obj\Debug\net6.0\Foodordering.csproj.CoreCompileInputs.cache
+D:\Foodordering\obj\Debug\net6.0\Foodordering.MvcApplicationPartsAssemblyInfo.cache
+D:\Foodordering\obj\Debug\net6.0\Foodordering.RazorAssemblyInfo.cache
+D:\Foodordering\obj\Debug\net6.0\Foodordering.RazorAssemblyInfo.cs
+D:\Foodordering\obj\Debug\net6.0\staticwebassets.build.json
+D:\Foodordering\obj\Debug\net6.0\staticwebassets.development.json
+D:\Foodordering\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+D:\Foodordering\obj\Debug\net6.0\scopedcss\bundle\Foodordering.styles.css
+D:\Foodordering\obj\Debug\net6.0\scopedcss\projectbundle\Foodordering.bundle.scp.css
+D:\Foodordering\obj\Debug\net6.0\Foodordering.csproj.CopyComplete
+D:\Foodordering\obj\Debug\net6.0\Foodordering.dll
+D:\Foodordering\obj\Debug\net6.0\refint\Foodordering.dll
+D:\Foodordering\obj\Debug\net6.0\Foodordering.pdb
+D:\Foodordering\obj\Debug\net6.0\Foodordering.genruntimeconfig.cache
+D:\Foodordering\obj\Debug\net6.0\ref\Foodordering.dll
+C:\Users\sarum\Desktop\Technical\Dotnet\Food Ordering System(MVC Application)\Foodordering\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\sarum\Desktop\Technical\Dotnet\Food Ordering System(MVC Application)\Foodordering\bin\Debug\net6.0\appsettings.json
+C:\Users\sarum\Desktop\Technical\Dotnet\Food Ordering System(MVC Application)\Foodordering\bin\Debug\net6.0\Foodordering.staticwebassets.runtime.json
+C:\Users\sarum\Desktop\Technical\Dotnet\Food Ordering System(MVC Application)\Foodordering\bin\Debug\net6.0\Foodordering.exe
+C:\Users\sarum\Desktop\Technical\Dotnet\Food Ordering System(MVC Application)\Foodordering\bin\Debug\net6.0\Foodordering.deps.json
+C:\Users\sarum\Desktop\Technical\Dotnet\Food Ordering System(MVC Application)\Foodordering\bin\Debug\net6.0\Foodordering.runtimeconfig.json
+C:\Users\sarum\Desktop\Technical\Dotnet\Food Ordering System(MVC Application)\Foodordering\bin\Debug\net6.0\Foodordering.dll
+C:\Users\sarum\Desktop\Technical\Dotnet\Food Ordering System(MVC Application)\Foodordering\bin\Debug\net6.0\Foodordering.pdb
+C:\Users\sarum\Desktop\Technical\Dotnet\Food Ordering System(MVC Application)\Foodordering\bin\Debug\net6.0\Humanizer.dll
+C:\Users\sarum\Desktop\Technical\Dotnet\Food Ordering System(MVC Application)\Foodordering\bin\Debug\net6.0\System.Web.Mvc.dll
+C:\Users\sarum\Desktop\Technical\Dotnet\Food Ordering System(MVC Application)\Foodordering\bin\Debug\net6.0\System.Web.Razor.dll
+C:\Users\sarum\Desktop\Technical\Dotnet\Food Ordering System(MVC Application)\Foodordering\bin\Debug\net6.0\System.Web.Helpers.dll
+C:\Users\sarum\Desktop\Technical\Dotnet\Food Ordering System(MVC Application)\Foodordering\bin\Debug\net6.0\System.Web.WebPages.Deployment.dll
+C:\Users\sarum\Desktop\Technical\Dotnet\Food Ordering System(MVC Application)\Foodordering\bin\Debug\net6.0\System.Web.WebPages.Razor.dll
+C:\Users\sarum\Desktop\Technical\Dotnet\Food Ordering System(MVC Application)\Foodordering\bin\Debug\net6.0\System.Web.WebPages.dll
+C:\Users\sarum\Desktop\Technical\Dotnet\Food Ordering System(MVC Application)\Foodordering\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\sarum\Desktop\Technical\Dotnet\Food Ordering System(MVC Application)\Foodordering\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\sarum\Desktop\Technical\Dotnet\Food Ordering System(MVC Application)\Foodordering\bin\Debug\net6.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\sarum\Desktop\Technical\Dotnet\Food Ordering System(MVC Application)\Foodordering\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\sarum\Desktop\Technical\Dotnet\Food Ordering System(MVC Application)\Foodordering\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\sarum\Desktop\Technical\Dotnet\Food Ordering System(MVC Application)\Foodordering\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\sarum\Desktop\Technical\Dotnet\Food Ordering System(MVC Application)\Foodordering\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\sarum\Desktop\Technical\Dotnet\Food Ordering System(MVC Application)\Foodordering\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\sarum\Desktop\Technical\Dotnet\Food Ordering System(MVC Application)\Foodordering\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\sarum\Desktop\Technical\Dotnet\Food Ordering System(MVC Application)\Foodordering\bin\Debug\net6.0\dotnet-ef.dll
+C:\Users\sarum\Desktop\Technical\Dotnet\Food Ordering System(MVC Application)\Foodordering\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\sarum\Desktop\Technical\Dotnet\Food Ordering System(MVC Application)\Foodordering\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\sarum\Desktop\Technical\Dotnet\Food Ordering System(MVC Application)\Foodordering\bin\Debug\net6.0\Microsoft.Extensions.Identity.Core.dll
+C:\Users\sarum\Desktop\Technical\Dotnet\Food Ordering System(MVC Application)\Foodordering\bin\Debug\net6.0\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\sarum\Desktop\Technical\Dotnet\Food Ordering System(MVC Application)\Foodordering\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\sarum\Desktop\Technical\Dotnet\Food Ordering System(MVC Application)\Foodordering\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\sarum\Desktop\Technical\Dotnet\Food Ordering System(MVC Application)\Foodordering\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\sarum\Desktop\Technical\Dotnet\Food Ordering System(MVC Application)\Foodordering\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\sarum\Desktop\Technical\Dotnet\Food Ordering System(MVC Application)\Foodordering\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\sarum\Desktop\Technical\Dotnet\Food Ordering System(MVC Application)\Foodordering\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\sarum\Desktop\Technical\Dotnet\Food Ordering System(MVC Application)\Foodordering\bin\Debug\net6.0\Microsoft.Web.Infrastructure.dll
+C:\Users\sarum\Desktop\Technical\Dotnet\Food Ordering System(MVC Application)\Foodordering\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\sarum\Desktop\Technical\Dotnet\Food Ordering System(MVC Application)\Foodordering\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\sarum\Desktop\Technical\Dotnet\Food Ordering System(MVC Application)\Foodordering\bin\Debug\net6.0\RazorPay Core.dll
+C:\Users\sarum\Desktop\Technical\Dotnet\Food Ordering System(MVC Application)\Foodordering\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\sarum\Desktop\Technical\Dotnet\Food Ordering System(MVC Application)\Foodordering\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\sarum\Desktop\Technical\Dotnet\Food Ordering System(MVC Application)\Foodordering\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\sarum\Desktop\Technical\Dotnet\Food Ordering System(MVC Application)\Foodordering\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\sarum\Desktop\Technical\Dotnet\Food Ordering System(MVC Application)\Foodordering\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\sarum\Desktop\Technical\Dotnet\Food Ordering System(MVC Application)\Foodordering\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\sarum\Desktop\Technical\Dotnet\Food Ordering System(MVC Application)\Foodordering\bin\Debug\net6.0\System.Web.Mvc.Extensions.dll
+C:\Users\sarum\Desktop\Technical\Dotnet\Food Ordering System(MVC Application)\Foodordering\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\sarum\Desktop\Technical\Dotnet\Food Ordering System(MVC Application)\Foodordering\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\sarum\Desktop\Technical\Dotnet\Food Ordering System(MVC Application)\Foodordering\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\sarum\Desktop\Technical\Dotnet\Food Ordering System(MVC Application)\Foodordering\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\sarum\Desktop\Technical\Dotnet\Food Ordering System(MVC Application)\Foodordering\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\sarum\Desktop\Technical\Dotnet\Food Ordering System(MVC Application)\Foodordering\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\sarum\Desktop\Technical\Dotnet\Food Ordering System(MVC Application)\Foodordering\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\sarum\Desktop\Technical\Dotnet\Food Ordering System(MVC Application)\Foodordering\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\sarum\Desktop\Technical\Dotnet\Food Ordering System(MVC Application)\Foodordering\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\sarum\Desktop\Technical\Dotnet\Food Ordering System(MVC Application)\Foodordering\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\sarum\Desktop\Technical\Dotnet\Food Ordering System(MVC Application)\Foodordering\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\sarum\Desktop\Technical\Dotnet\Food Ordering System(MVC Application)\Foodordering\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\sarum\Desktop\Technical\Dotnet\Food Ordering System(MVC Application)\Foodordering\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\sarum\Desktop\Technical\Dotnet\Food Ordering System(MVC Application)\Foodordering\obj\Debug\net6.0\Foodordering.csproj.AssemblyReference.cache
+C:\Users\sarum\Desktop\Technical\Dotnet\Food Ordering System(MVC Application)\Foodordering\obj\Debug\net6.0\Foodordering.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sarum\Desktop\Technical\Dotnet\Food Ordering System(MVC Application)\Foodordering\obj\Debug\net6.0\Foodordering.AssemblyInfoInputs.cache
+C:\Users\sarum\Desktop\Technical\Dotnet\Food Ordering System(MVC Application)\Foodordering\obj\Debug\net6.0\Foodordering.AssemblyInfo.cs
+C:\Users\sarum\Desktop\Technical\Dotnet\Food Ordering System(MVC Application)\Foodordering\obj\Debug\net6.0\Foodordering.csproj.CoreCompileInputs.cache
+C:\Users\sarum\Desktop\Technical\Dotnet\Food Ordering System(MVC Application)\Foodordering\obj\Debug\net6.0\Foodordering.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\sarum\Desktop\Technical\Dotnet\Food Ordering System(MVC Application)\Foodordering\obj\Debug\net6.0\Foodordering.RazorAssemblyInfo.cache
+C:\Users\sarum\Desktop\Technical\Dotnet\Food Ordering System(MVC Application)\Foodordering\obj\Debug\net6.0\Foodordering.RazorAssemblyInfo.cs
+C:\Users\sarum\Desktop\Technical\Dotnet\Food Ordering System(MVC Application)\Foodordering\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\sarum\Desktop\Technical\Dotnet\Food Ordering System(MVC Application)\Foodordering\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\sarum\Desktop\Technical\Dotnet\Food Ordering System(MVC Application)\Foodordering\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\sarum\Desktop\Technical\Dotnet\Food Ordering System(MVC Application)\Foodordering\obj\Debug\net6.0\scopedcss\bundle\Foodordering.styles.css
+C:\Users\sarum\Desktop\Technical\Dotnet\Food Ordering System(MVC Application)\Foodordering\obj\Debug\net6.0\scopedcss\projectbundle\Foodordering.bundle.scp.css
+C:\Users\sarum\Desktop\Technical\Dotnet\Food Ordering System(MVC Application)\Foodordering\obj\Debug\net6.0\Foodordering.csproj.CopyComplete
+C:\Users\sarum\Desktop\Technical\Dotnet\Food Ordering System(MVC Application)\Foodordering\obj\Debug\net6.0\Foodordering.dll
+C:\Users\sarum\Desktop\Technical\Dotnet\Food Ordering System(MVC Application)\Foodordering\obj\Debug\net6.0\refint\Foodordering.dll
+C:\Users\sarum\Desktop\Technical\Dotnet\Food Ordering System(MVC Application)\Foodordering\obj\Debug\net6.0\Foodordering.pdb
+C:\Users\sarum\Desktop\Technical\Dotnet\Food Ordering System(MVC Application)\Foodordering\obj\Debug\net6.0\Foodordering.genruntimeconfig.cache
+C:\Users\sarum\Desktop\Technical\Dotnet\Food Ordering System(MVC Application)\Foodordering\obj\Debug\net6.0\ref\Foodordering.dll
+C:\Users\sarumathi.sugumar\Downloads\Foodordering\Foodordering\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\sarumathi.sugumar\Downloads\Foodordering\Foodordering\bin\Debug\net6.0\appsettings.json
+C:\Users\sarumathi.sugumar\Downloads\Foodordering\Foodordering\bin\Debug\net6.0\Foodordering.staticwebassets.runtime.json
+C:\Users\sarumathi.sugumar\Downloads\Foodordering\Foodordering\bin\Debug\net6.0\Foodordering.exe
+C:\Users\sarumathi.sugumar\Downloads\Foodordering\Foodordering\bin\Debug\net6.0\Foodordering.deps.json
+C:\Users\sarumathi.sugumar\Downloads\Foodordering\Foodordering\bin\Debug\net6.0\Foodordering.runtimeconfig.json
+C:\Users\sarumathi.sugumar\Downloads\Foodordering\Foodordering\bin\Debug\net6.0\Foodordering.dll
+C:\Users\sarumathi.sugumar\Downloads\Foodordering\Foodordering\bin\Debug\net6.0\Foodordering.pdb
+C:\Users\sarumathi.sugumar\Downloads\Foodordering\Foodordering\bin\Debug\net6.0\Humanizer.dll
+C:\Users\sarumathi.sugumar\Downloads\Foodordering\Foodordering\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\sarumathi.sugumar\Downloads\Foodordering\Foodordering\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\sarumathi.sugumar\Downloads\Foodordering\Foodordering\bin\Debug\net6.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\sarumathi.sugumar\Downloads\Foodordering\Foodordering\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\sarumathi.sugumar\Downloads\Foodordering\Foodordering\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\sarumathi.sugumar\Downloads\Foodordering\Foodordering\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\sarumathi.sugumar\Downloads\Foodordering\Foodordering\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\sarumathi.sugumar\Downloads\Foodordering\Foodordering\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\sarumathi.sugumar\Downloads\Foodordering\Foodordering\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\sarumathi.sugumar\Downloads\Foodordering\Foodordering\bin\Debug\net6.0\dotnet-ef.dll
+C:\Users\sarumathi.sugumar\Downloads\Foodordering\Foodordering\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\sarumathi.sugumar\Downloads\Foodordering\Foodordering\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\sarumathi.sugumar\Downloads\Foodordering\Foodordering\bin\Debug\net6.0\Microsoft.Extensions.Identity.Core.dll
+C:\Users\sarumathi.sugumar\Downloads\Foodordering\Foodordering\bin\Debug\net6.0\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\sarumathi.sugumar\Downloads\Foodordering\Foodordering\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\sarumathi.sugumar\Downloads\Foodordering\Foodordering\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\sarumathi.sugumar\Downloads\Foodordering\Foodordering\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\sarumathi.sugumar\Downloads\Foodordering\Foodordering\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\sarumathi.sugumar\Downloads\Foodordering\Foodordering\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\sarumathi.sugumar\Downloads\Foodordering\Foodordering\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\sarumathi.sugumar\Downloads\Foodordering\Foodordering\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\sarumathi.sugumar\Downloads\Foodordering\Foodordering\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\sarumathi.sugumar\Downloads\Foodordering\Foodordering\bin\Debug\net6.0\RazorPay Core.dll
+C:\Users\sarumathi.sugumar\Downloads\Foodordering\Foodordering\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\sarumathi.sugumar\Downloads\Foodordering\Foodordering\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\sarumathi.sugumar\Downloads\Foodordering\Foodordering\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\sarumathi.sugumar\Downloads\Foodordering\Foodordering\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\sarumathi.sugumar\Downloads\Foodordering\Foodordering\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\sarumathi.sugumar\Downloads\Foodordering\Foodordering\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\sarumathi.sugumar\Downloads\Foodordering\Foodordering\bin\Debug\net6.0\System.Web.Mvc.Extensions.dll
+C:\Users\sarumathi.sugumar\Downloads\Foodordering\Foodordering\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\sarumathi.sugumar\Downloads\Foodordering\Foodordering\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\sarumathi.sugumar\Downloads\Foodordering\Foodordering\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\sarumathi.sugumar\Downloads\Foodordering\Foodordering\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\sarumathi.sugumar\Downloads\Foodordering\Foodordering\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\sarumathi.sugumar\Downloads\Foodordering\Foodordering\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\sarumathi.sugumar\Downloads\Foodordering\Foodordering\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\sarumathi.sugumar\Downloads\Foodordering\Foodordering\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\sarumathi.sugumar\Downloads\Foodordering\Foodordering\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\sarumathi.sugumar\Downloads\Foodordering\Foodordering\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\sarumathi.sugumar\Downloads\Foodordering\Foodordering\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\sarumathi.sugumar\Downloads\Foodordering\Foodordering\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\sarumathi.sugumar\Downloads\Foodordering\Foodordering\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\sarumathi.sugumar\Downloads\Foodordering\Foodordering\obj\Debug\net6.0\Foodordering.csproj.AssemblyReference.cache
+C:\Users\sarumathi.sugumar\Downloads\Foodordering\Foodordering\obj\Debug\net6.0\Foodordering.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sarumathi.sugumar\Downloads\Foodordering\Foodordering\obj\Debug\net6.0\Foodordering.AssemblyInfoInputs.cache
+C:\Users\sarumathi.sugumar\Downloads\Foodordering\Foodordering\obj\Debug\net6.0\Foodordering.AssemblyInfo.cs
+C:\Users\sarumathi.sugumar\Downloads\Foodordering\Foodordering\obj\Debug\net6.0\Foodordering.csproj.CoreCompileInputs.cache
+C:\Users\sarumathi.sugumar\Downloads\Foodordering\Foodordering\obj\Debug\net6.0\Foodordering.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\sarumathi.sugumar\Downloads\Foodordering\Foodordering\obj\Debug\net6.0\Foodordering.RazorAssemblyInfo.cache
+C:\Users\sarumathi.sugumar\Downloads\Foodordering\Foodordering\obj\Debug\net6.0\Foodordering.RazorAssemblyInfo.cs
+C:\Users\sarumathi.sugumar\Downloads\Foodordering\Foodordering\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\sarumathi.sugumar\Downloads\Foodordering\Foodordering\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\sarumathi.sugumar\Downloads\Foodordering\Foodordering\obj\Debug\net6.0\staticwebassets\msbuild.Foodordering.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\sarumathi.sugumar\Downloads\Foodordering\Foodordering\obj\Debug\net6.0\staticwebassets\msbuild.build.Foodordering.props
+C:\Users\sarumathi.sugumar\Downloads\Foodordering\Foodordering\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Foodordering.props
+C:\Users\sarumathi.sugumar\Downloads\Foodordering\Foodordering\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Foodordering.props
+C:\Users\sarumathi.sugumar\Downloads\Foodordering\Foodordering\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\sarumathi.sugumar\Downloads\Foodordering\Foodordering\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\sarumathi.sugumar\Downloads\Foodordering\Foodordering\obj\Debug\net6.0\scopedcss\bundle\Foodordering.styles.css
+C:\Users\sarumathi.sugumar\Downloads\Foodordering\Foodordering\obj\Debug\net6.0\scopedcss\projectbundle\Foodordering.bundle.scp.css
+C:\Users\sarumathi.sugumar\Downloads\Foodordering\Foodordering\obj\Debug\net6.0\Foodordering.csproj.CopyComplete
+C:\Users\sarumathi.sugumar\Downloads\Foodordering\Foodordering\obj\Debug\net6.0\Foodordering.dll
+C:\Users\sarumathi.sugumar\Downloads\Foodordering\Foodordering\obj\Debug\net6.0\refint\Foodordering.dll
+C:\Users\sarumathi.sugumar\Downloads\Foodordering\Foodordering\obj\Debug\net6.0\Foodordering.pdb
+C:\Users\sarumathi.sugumar\Downloads\Foodordering\Foodordering\obj\Debug\net6.0\Foodordering.genruntimeconfig.cache
+C:\Users\sarumathi.sugumar\Downloads\Foodordering\Foodordering\obj\Debug\net6.0\ref\Foodordering.dll
+C:\Users\sarumathi.sugumar\Downloads\Foodordering\Foodordering\bin\Debug\net6.0\System.Web.Mvc.dll
+C:\Users\sarumathi.sugumar\Downloads\Foodordering\Foodordering\bin\Debug\net6.0\System.Web.Razor.dll
+C:\Users\sarumathi.sugumar\Downloads\Foodordering\Foodordering\bin\Debug\net6.0\System.Web.Helpers.dll
+C:\Users\sarumathi.sugumar\Downloads\Foodordering\Foodordering\bin\Debug\net6.0\System.Web.WebPages.Deployment.dll
+C:\Users\sarumathi.sugumar\Downloads\Foodordering\Foodordering\bin\Debug\net6.0\System.Web.WebPages.Razor.dll
+C:\Users\sarumathi.sugumar\Downloads\Foodordering\Foodordering\bin\Debug\net6.0\System.Web.WebPages.dll
+C:\Users\sarumathi.sugumar\Downloads\Foodordering\Foodordering\bin\Debug\net6.0\Microsoft.Web.Infrastructure.dll

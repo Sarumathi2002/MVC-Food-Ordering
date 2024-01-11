@@ -1,0 +1,27 @@
+﻿@model Foodordering.Models.PaymentRequest
+@{
+    ViewData["Title"] = "Home Page";
+}
+
+@using (Html.BeginForm("CreateOrder", "Payment", FormMethod.Post))
+{
+    @Html.AntiForgeryToken()
+    <div class="form-floating mb-3">
+        @Html.TextBoxFor(x => x.Name, new { @class = "form-control",placeholder="Customer Name" })
+        <label for="Name">Customer Name</label>
+           @Html.ValidationMessageFor(x => x.Name, "", new { @class = "badge badge-danger" })
+    </div>
+    <div class="form-floating mb-3">
+        @Html.TextBoxFor(x => x.Email, new { @class = "form-control",placeholder="Email" })
+        <label for="email">Email ID</label>
+        @Html.ValidationMessageFor(x => x.Email, "", new { @class = "badge badge-danger" })
+        @if (ViewBag.error != null)
+        {
+            <span class="badge badge-danger">@ViewBag.error</span>
+        }
+    </div>
+
+    <div class="mb-3">
+        <button type="submit" class="btn btn-sm w-100 btn-dark p-2 shadow rounded">submit</button>
+    </div>
+}
